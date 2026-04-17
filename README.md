@@ -22,4 +22,5 @@ A Machine Learning project focused on analyzing and predicting student absences 
 ​Deployment: Building a simple web interface using Streamlit where teachers can input student data and get an immediate absenteeism risk prediction.
 
 ​👤 Author
+
 ​Hala Alkhawaldeh _ Data Science & AI Student
