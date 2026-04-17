@@ -9,6 +9,19 @@ A Machine Learning project focused on analyzing and predicting student absences 
 * *Modeling:* Linear Regression model to forecast absences.
 * *Evaluation:* Achieved an RMSE of 7.45.
 
+## 📈 Key Results & Visualizations
+
+In this section, we showcase how the *Multiple Linear Regression* model performs visually.
+
+### 1. Actual vs. Predicted Absences
+This scatter plot compares the real values from the test set against our model's predictions. The alignment along the diagonal indicates the model's accuracy.
+
+### 2. Regression Analysis: Study Time
+We visualized the linear relationship between Study Time and Absences to see how academic habits impact attendance.
+
+**Note:** You can find the full evaluation code and interactive plots in the [Jupyter Notebook](./student_absence_multiple_linear_regression.ipynb).
+
+
 ## 🛠️ Tech Stack
 * Python (Pandas, Scikit-Learn, Seaborn)
 * Google Colab
